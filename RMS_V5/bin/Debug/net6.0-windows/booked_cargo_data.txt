@@ -1,0 +1,7 @@
+Allama_Iqbal,Lahore,Sahiwal,45,2025,4,14,4,2022,74.004,
+Pakistan_Express,Rawalpindi,Faislabad,12,480,1,8,5,2022,160.085,
+Shalimar,Sialkot,Faislabad,45,2700,2,9,6,2022,191.502,
+Karachi_Express,Peshawar,Lahore,20,1200,5,30,10,2022,334.17,
+Karachi_Express,Peshawar,Lahore,500,30000,3,9,12,2022,374.004,
+Karachi_Express,Peshawar,Lahore,123,7380,6,1,1,2022,31.417,
+Khyber_Mail,Rawalpindi,Sahiwal,18,810,7,3,6,2022,185.502,

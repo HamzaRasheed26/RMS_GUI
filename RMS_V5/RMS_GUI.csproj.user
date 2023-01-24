@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\CustomerForms\FrmBookCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CustomerForms\FrmBuyTicket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CustomerForms\FrmMyCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CustomerForms\FrmMyTickets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CustomerForms\FrmRoutesList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CustomerForms\FrmShowRoute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CustomerForms\FrmStationSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CustomerForms\FrmUserMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CustomerForms\FrmViewNotice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormAdminMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmAddNotice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmAddRoute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmChangeCargoPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmChangePrices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmChangeTicketPrice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmDeleteRoute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmEditRoute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmRouteData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmSignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmSignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FrmViewRoutes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
